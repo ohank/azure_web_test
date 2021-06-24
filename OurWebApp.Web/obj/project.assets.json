@@ -12821,11 +12821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tmgjoka3\\Documents\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\github\\OurWebApp.Web\\OurWebApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\tmgjoka3\\Documents\\azure_web_test\\OurWebApp.Web\\OurWebApp.Web.csproj",
       "projectName": "OurWebApp.Web",
-      "projectPath": "C:\\Users\\tmgjoka3\\Documents\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\github\\OurWebApp.Web\\OurWebApp.Web.csproj",
+      "projectPath": "C:\\Users\\tmgjoka3\\Documents\\azure_web_test\\OurWebApp.Web\\OurWebApp.Web.csproj",
       "packagesPath": "C:\\Users\\tmgjoka3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tmgjoka3\\Documents\\microsoft-azure-deployment-requirements-specifying\\03\\demos\\AzureDeploy\\github\\OurWebApp.Web\\obj\\",
+      "outputPath": "C:\\Users\\tmgjoka3\\Documents\\azure_web_test\\OurWebApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
