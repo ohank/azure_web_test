@@ -1,0 +1,14 @@
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.deps.json
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.json
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.dev.json
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.pdb
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csprojAssemblyReference.cache
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfoInputs.cache
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfo.cs
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Users\tmgjoka3\Documents\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.pdb
